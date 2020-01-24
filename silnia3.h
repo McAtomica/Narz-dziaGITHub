@@ -1,4 +1,4 @@
-int silniaR(int n)
+int konf3(int n)
 {
     if(n<2)
     return 1;
