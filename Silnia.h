@@ -1,4 +1,4 @@
-int interfejs()
+int komunikacja()
 {
     int n;
     printf("Wprowadz liczbe calkowita do silni:\n");
