@@ -1,4 +1,4 @@
-silniaR(int n)
+int silniaR(int n)
 {
     if(n<2)
     return 1;
