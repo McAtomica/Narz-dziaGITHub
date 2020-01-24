@@ -1,4 +1,4 @@
-int silniaR(int n)
+int Metraż(int n)
 {
     if(n<2)
     return 1;
