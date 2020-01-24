@@ -1,4 +1,4 @@
-int silnia(int n)
+int silnia123(int n)
 {
     int i=1,s=1;
     while(n>=i)
