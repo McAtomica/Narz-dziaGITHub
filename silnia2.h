@@ -1,5 +1,4 @@
-int średnia(int n)
-{
+int średnia(int n){
     int i=1,s=1;
     while(n>=i)
     {
