@@ -8,6 +8,7 @@
 #include "silnia3.h"
 
 int main(){
-    printf("Silnia [...]");
+     int n = komunikacja();
+    printf("Silnia obliczana iteracyjnie to %d.\nSilnia rekurencyjnie to %d",średnia(n),Metraż(n));
     return 0;
 }
